@@ -1,7 +1,0 @@
-Police folders:
-
-Déja vu bold 20
-Chemin/Objet en chemin
-Contour 3825, épaisseur: 1
-Déplacement: vertical 28 (de la page)
-
